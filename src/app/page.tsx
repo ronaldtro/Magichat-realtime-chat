@@ -106,12 +106,12 @@ export default function Home() {
   return (
     <main>
       <button id={isActiveChat ? 'chatButtonOn' : 'chatButtonOff'} onClick={activateChat}>
-        <span id="messagesCounter">{messages.length}</span> Chat 👀
+        <span id="messagesCounter">{messages.length}</span> 🌀 Chat
       </button>
       {isActiveChat ? (
         <section id="chat">
           <div id="navbar">
-            <h3>realtime chat 🚥</h3>
+            <h3>🧙‍♂️ Magichat</h3>
           </div>
           <div id="container">
             <ul id="messages">
