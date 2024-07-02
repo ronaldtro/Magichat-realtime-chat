@@ -23,13 +23,13 @@ Prerequisitos:
 
 .env
 ```bash
-    PORT = 4000
-    HOSTNAME = localhost
-    CONNECTION_STRING = mongoDb cluster
+PORT = 4000
+HOSTNAME = localhost
+CONNECTION_STRING = mongoDb cluster
 ```
 localStorage
 ```bash
-    user: random
+user: random
 ```
 
 dependencies install
