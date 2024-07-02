@@ -14,7 +14,7 @@ La webApp fue realizada con:
 Next.js, Express, Socket.io y MongoDb.
 
 La webApp permite realizar comunicaciones en tiempo real entre distintos usuarios. Cuenta con persistencia de datos y 
-asignacion de nombres aleatorios a cada usuario.
+asignacion de nombres aleatorios.
 
 ## Como empezar
 ## Configuracion rapida
@@ -46,6 +46,8 @@ pnpm dev
 # or
 bun dev
 ```
+## 🛜 Live on
+🆗 https://magichat-qrh5.onrender.com/
 
 ## Preview
 ![PNG](https://raw.githubusercontent.com/ronaldtro/public-assets/main/magichat.PNG)
